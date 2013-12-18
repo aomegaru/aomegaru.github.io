@@ -1,0 +1,45 @@
+/* line 1, /Users/mpak/www/2del/middlemano/source/stylesheets/socials.css.scss */
+#msg {
+  padding: 0 30px;
+  /* Twitter */
+  /*  Facebook */
+  /* VK */ }
+  /* line 3, /Users/mpak/www/2del/middlemano/source/stylesheets/socials.css.scss */
+  #msg a {
+    display: inline-block;
+    font-size: 0.83em;
+    padding: 0.5em 0.6875em;
+    line-height: 1.2;
+    font-weight: normal;
+    background-color: #0088cc;
+    border: 0.0725em solid #0088cc;
+    border-radius: 0.0725em;
+    margin-right: 0.3125em;
+    margin-bottom: 0.3125em;
+    color: #FFF;
+    text-decoration: none;
+    text-shadow: 0 1px 0px #333; }
+  /* line 21, /Users/mpak/www/2del/middlemano/source/stylesheets/socials.css.scss */
+  #msg a.btn-twitter {
+    background-color: #41b7d8;
+    border-color: #41b7d8; }
+  /* line 26, /Users/mpak/www/2del/middlemano/source/stylesheets/socials.css.scss */
+  #msg a.btn-twitter:hover {
+    background-color: #238caa;
+    border-color: #238caa; }
+  /* line 32, /Users/mpak/www/2del/middlemano/source/stylesheets/socials.css.scss */
+  #msg a.btn-facebook {
+    background-color: #3b5997;
+    border-color: #3b5997; }
+  /* line 37, /Users/mpak/www/2del/middlemano/source/stylesheets/socials.css.scss */
+  #msg a.btn-facebook:hover {
+    background-color: #263960;
+    border-color: #263960; }
+  /* line 43, /Users/mpak/www/2del/middlemano/source/stylesheets/socials.css.scss */
+  #msg a.btn-vk {
+    background-color: #5e82a8;
+    border-color: #5e82a8; }
+  /* line 48, /Users/mpak/www/2del/middlemano/source/stylesheets/socials.css.scss */
+  #msg a.btn-vk:hover {
+    background-color: #415c78;
+    border-color: #415c78; }
